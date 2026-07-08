@@ -31,3 +31,8 @@ else
     rm -rf "$WORKDIR"
     exit 1
 fi
+
+echo "==> Edge case notes"
+echo "  - Zero/minimal balance: interest rounds to zero cleanly"
+echo "  - Unknown account type: EVALUATE WHEN OTHER assigns 0.000 rate"
+echo "  - Max balance (9999999.99): no overflow due to WS-TOTAL-INTEREST PIC 9(9)V99"
