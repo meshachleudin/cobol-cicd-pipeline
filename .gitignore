@@ -1,0 +1,10 @@
+# Compiled COBOL binary
+intcalc
+
+# Runtime input/output files generated when running locally
+ACCTIN
+ACCTRPT
+
+# OS files
+.DS_Store
+output/
