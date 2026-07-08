@@ -1,3 +1,5 @@
+[![COBOL CI](https://github.com/meshachleudin/cobol-cicd-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/meshachleudin/cobol-cicd-pipeline/actions/workflows/ci.yml)
+
 # COBOL CI/CD Pipeline — Mainframe Batch Job Modernisation
 
 ![CI](https://github.com/YOUR_USERNAME/cobol-cicd-pipeline/actions/workflows/ci.yml/badge.svg)
